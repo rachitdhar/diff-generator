@@ -40,4 +40,8 @@ The files used:
 ![image](https://github.com/user-attachments/assets/a0df533a-1138-4f21-ad61-3ca0a31002cf)
 ![image](https://github.com/user-attachments/assets/4dd510df-5a25-4feb-9bcb-140ca436605c)
 
+## Limitations
+
+- The input file paths should be within 300 characters in length to be read by the application.
+- Diff can be generated correctly only for files of upto 10000 lines length.
 
