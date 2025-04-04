@@ -32,9 +32,11 @@ The line content in each case is truncated after 50 characters for clear display
 ## Example
 
 Output:
+
 ![Screenshot 2025-04-05 030255](https://github.com/user-attachments/assets/26283115-00ab-49c4-b96f-d54878d83dca)
 
 The files used:
+
 ![image](https://github.com/user-attachments/assets/a0df533a-1138-4f21-ad61-3ca0a31002cf)
 ![image](https://github.com/user-attachments/assets/4dd510df-5a25-4feb-9bcb-140ca436605c)
 
